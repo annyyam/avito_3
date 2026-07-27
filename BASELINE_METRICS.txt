@@ -1,0 +1,19 @@
+Random, train:
+NDCG@5: 0.363623
+HardConstraintViolationRate@5: 0.020019
+needs: 1059
+
+BM25, train:
+NDCG@5: 0.333636
+HardConstraintViolationRate@5: 0.023607
+needs: 1059
+
+Random, val (hidden):
+NDCG@5: 0.446308
+HardConstraintViolationRate@5: 0.007692
+needs: 130
+
+BM25, val (hidden):
+NDCG@5: 0.408388
+HardConstraintViolationRate@5: 0.018462
+needs: 130

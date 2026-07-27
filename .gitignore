@@ -1,0 +1,26 @@
+# Данные соревнования
+data/
+
+# Виртуальное окружение
+.venv/
+
+# Сгенерированные сабмиты
+submissions/
+submission*.jsonl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Настройки и секреты
+.env
+.vscode/
+
+# Логи и временные файлы
+*.log
+.DS_Store
