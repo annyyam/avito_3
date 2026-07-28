@@ -24,3 +24,12 @@ __pycache__/
 # Логи и временные файлы
 *.log
 .DS_Store
+# Внутреннее разбиение: копии исходных данных и меток
+splits/internal_train/
+splits/internal_dev/
+splits/.ipynb_checkpoints/
+
+# Внутреннее разбиение: копии исходных данных и меток
+splits/internal_train/
+splits/internal_dev/
+splits/.ipynb_checkpoints/
