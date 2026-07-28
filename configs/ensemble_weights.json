@@ -1,0 +1,7 @@
+{
+  "bm25_weight": 0.30,
+  "bge_m3_weight": 0.30,
+  "reranker_weight": 0.40,
+  "normalization": "min-max per need candidate pool",
+  "selection_method": "5-fold cross-validation on internal_train"
+}
